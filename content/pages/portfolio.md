@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-slug: careers
+slug: Portfolio
 sections:
   - title:
       text: Deep Expertise in Generative AI and Machine Learning

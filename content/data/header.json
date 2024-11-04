@@ -23,8 +23,8 @@
         },
         {
             "label": "About Me",
-            "altText": "Blog",
-            "url": "/blog",
+            "altText": "About-Me",
+            "url": "/AboutMe",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -32,8 +32,8 @@
         },
         {
             "label": "Portfolio",
-            "altText": "Careers page",
-            "url": "/careers",
+            "altText": "Portfolio",
+            "url": "/Portfolio",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",

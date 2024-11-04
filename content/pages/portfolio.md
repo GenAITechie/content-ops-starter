@@ -84,6 +84,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: secondary
+        altText: Proposal
     media:
       type: ImageBlock
       url: /images/hero3.svg

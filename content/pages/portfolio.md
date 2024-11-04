@@ -68,7 +68,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Business Consulting
+      text: Strategic Vision and Business Alignment
       color: text-dark
     subtitle: Be in good company
     text: >

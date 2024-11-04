@@ -9,8 +9,7 @@
                 "borderWidth": 0
             }
         },
-        "type": "ImageBlock",
-        "url": "/images/logo2.webp"
+        "type": "ImageBlock"
     },
     "primaryLinks": [
         {

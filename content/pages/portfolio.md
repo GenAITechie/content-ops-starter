@@ -38,7 +38,7 @@ sections:
         showIcon: true
         icon: github
         iconPosition: left
-        style: secondary
+        style: primary
         elementId: ''
         label: SecureSynth - Synthetic Data Generation Project Proposal
     colors: bg-neutral-fg-dark

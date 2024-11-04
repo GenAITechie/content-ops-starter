@@ -24,7 +24,7 @@
         {
             "label": "About Me",
             "altText": "About Me",
-            "url": "/About Me",
+            "url": "/AboutMe",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",

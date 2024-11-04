@@ -39,6 +39,7 @@ sections:
         iconPosition: left
         style: secondary
         elementId: ''
+        label: SecureSynth - Synthetic Data Generation Project Proposal
     colors: bg-neutral-fg-dark
     styles:
       self:

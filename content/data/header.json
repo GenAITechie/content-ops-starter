@@ -31,6 +31,15 @@
             "type": "Link"
         },
         {
+            "label": "Portfolio",
+            "altText": "Portfolio",
+            "url": "/Portfolio",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        },
+        {
             "label": "Contact",
             "altText": "Dropdown",
             "links": [
@@ -61,15 +70,6 @@
             ],
             "labelStyle": "secondary",
             "type": "SubNav"
-        },
-        {
-            "label": "Portfolio",
-            "altText": "Portfolio",
-            "url": "/Portfolio",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
         }
     ],
     "secondaryLinks": [],

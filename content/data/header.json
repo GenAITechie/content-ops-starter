@@ -33,7 +33,7 @@
         {
             "label": "Portfolio",
             "altText": "Portfolio",
-            "url": "/careers",
+            "url": "/Portfolio",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",

@@ -23,13 +23,7 @@ sections:
       pioneering research and delivering impactful proofs of concept. By
       effectively applying advanced AI models, I solved complex challenges and
       drove innovation, propelling organizational success.
-    actions:
-      - label: See open positions
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Button
+    actions: []
     colors: bg-neutral-fg-dark
     styles:
       self:

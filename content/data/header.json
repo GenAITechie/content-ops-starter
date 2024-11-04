@@ -9,7 +9,8 @@
                 "borderWidth": 0
             }
         },
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "url": "/images/contenful-logo.svg"
     },
     "primaryLinks": [
         {

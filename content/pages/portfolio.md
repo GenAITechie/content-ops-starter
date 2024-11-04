@@ -81,7 +81,7 @@ sections:
         label: Proposal to Initiate a new Project
         url: >-
           https://github.com/GenAITechie/Synthetic-data-generation-using-GAN/blob/33fb8e6e44676ac72150598547154e755cb8bd52/SecureSynth%20-%20Synthetic%20Data%20Generation%20Proj%20Proposal%20-v2.pdf
-        icon: arrowRight
+        icon: github
         iconPosition: right
         style: secondary
         altText: Proposal

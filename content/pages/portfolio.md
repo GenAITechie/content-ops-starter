@@ -38,7 +38,7 @@ sections:
         showIcon: true
         icon: github
         iconPosition: left
-        style: secondary
+        style: primary
         elementId: ''
         label: SecureSynth - Synthetic Data Generation Project Proposal
     colors: bg-neutral-fg-dark
@@ -65,6 +65,35 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 100
       url: /images/abstract-background.svg
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Strategic Vision and Business Alignment
+      color: text-dark
+    subtitle: ''
+    text: >
+      I align advanced AI technologies with business objectives to drive
+      innovation and measurable results. By integrating AI initiatives with
+      strategic goals, I deliver solutions that enhance customer experiences and
+      contribute to significant revenue growth.
+    actions:
+      - type: Button
+        label: Proposal to Initiate a new Project
+        url: >-
+          https://github.com/GenAITechie/Synthetic-data-generation-using-GAN/blob/33fb8e6e44676ac72150598547154e755cb8bd52/SecureSynth%20-%20Synthetic%20Data%20Generation%20Proj%20Proposal%20-v2.pdf
+        icon: github
+        iconPosition: left
+        style: secondary
+        altText: Proposal
+    media:
+      type: ImageBlock
+      url: /images/hero3.svg
+      altText: Dope design preview
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        alignItems: center
+        flexDirection: row-reverse
   - title:
       text: Open positions
       color: text-dark

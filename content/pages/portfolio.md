@@ -11,15 +11,13 @@ sections:
       type: TitleBlock
     subtitle: Key Projects
     text: >
-      I spearheaded the development of a cutting-edge [**Generative AI text
-      summarizer**](https://github.com/GenAITechie/ai-text-summarizer)
-      leveraging **Facebook’s BART-Large-CNN model**, significantly enhancing
-      summarization accuracy for specialized domains. Simultaneously, I led a
-      [**synthetic data generation initiative using CTGAN**
-      ](https://github.com/GenAITechie/Synthetic-data-generation-using-GAN)to
-      overcome data scarcity and address privacy concerns by creating
-      high-quality synthetic datasets. These groundbreaking projects highlight
-      my deep technical expertise in Generative AI and proactive leadership in
+      I spearheaded the development of a cutting-edge **Generative AI text
+      summarizer** leveraging **Facebook’s BART-Large-CNN model**, significantly
+      enhancing summarization accuracy for specialized domains. Simultaneously,
+      I led a **synthetic data generation initiative using CTGAN** to overcome
+      data scarcity and address privacy concerns by creating high-quality
+      synthetic datasets. These groundbreaking projects highlight my deep
+      technical expertise in Generative AI and proactive leadership in
       pioneering research and delivering impactful proofs of concept. By
       effectively applying advanced AI models, I solved complex challenges and
       drove innovation, propelling organizational success.

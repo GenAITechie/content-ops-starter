@@ -1,20 +1,21 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
         "altText": "Logo dark",
         "styles": {
             "self": {
                 "margin": [
-                    "mr-3"
-                ]
+                    "mr-0"
+                ],
+                "borderWidth": 0
             }
         },
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "url": "/images/icon1.svg"
     },
     "primaryLinks": [
         {
             "label": "Home",
-            "url": "/pricing",
+            "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",

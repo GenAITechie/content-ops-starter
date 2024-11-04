@@ -31,6 +31,14 @@ sections:
         style: secondary
         elementId: ''
         label: Gen AI Text Summarizer in Action
+      - type: Link
+        altText: GitHub
+        url: SecureSynth - Synthetic Data Generation Proj Proposal -v2.pdf
+        showIcon: true
+        icon: github
+        iconPosition: left
+        style: secondary
+        elementId: ''
     colors: bg-neutral-fg-dark
     styles:
       self:

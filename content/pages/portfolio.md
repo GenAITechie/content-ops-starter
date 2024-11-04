@@ -24,12 +24,15 @@ sections:
       effectively applying advanced AI models, I solved complex challenges and
       drove innovation, propelling organizational success.
     actions:
-      - label: See open positions
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Button
+      - type: Link
+        altText: YouTube
+        url: 'https://youtu.be/pTk3JWDzq3U'
+        showIcon: true
+        icon: youtube
+        iconPosition: left
+        style: secondary
+        elementId: ''
+        label: Gen AI Text Summarizer in Action
     colors: bg-neutral-fg-dark
     styles:
       self:
@@ -54,33 +57,6 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 100
       url: /images/abstract-background.svg
-  - title:
-      text: Meet the team
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    people:
-      - content/data/person1.json
-      - content/data/person2.json
-      - content/data/person3.json
-      - content/data/person4.json
-      - content/data/person5.json
-      - content/data/person6.json
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: FeaturedPeopleSection
   - title:
       text: Open positions
       color: text-dark

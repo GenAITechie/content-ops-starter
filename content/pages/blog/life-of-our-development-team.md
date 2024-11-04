@@ -13,6 +13,7 @@ featuredImage:
   styles:
     self:
       borderRadius: medium
+  elementId: video-1
 seo:
   metaTitle: A Day in the Life of Our Development Team
   metaDescription: You can add the excerpt and main keywords of your blog post here.

@@ -32,6 +32,7 @@ sections:
         iconPosition: left
         style: secondary
         elementId: ''
+        label: Gen AI Text Summarizer in Action
     colors: bg-neutral-fg-dark
     styles:
       self:

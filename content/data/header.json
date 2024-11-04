@@ -32,7 +32,7 @@
         },
         {
             "label": "Portfolio",
-            "altText": "Careers page",
+            "altText": "Portfolio",
             "url": "/careers",
             "icon": "arrowRight",
             "iconPosition": "right",

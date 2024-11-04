@@ -70,7 +70,7 @@ sections:
       type: TitleBlock
       text: Strategic Vision and Business Alignment
       color: text-dark
-    subtitle: Be in good company
+    subtitle: ''
     text: >
       I align advanced AI technologies with business objectives to drive
       innovation and measurable results. By integrating AI initiatives with

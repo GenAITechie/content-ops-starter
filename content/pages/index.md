@@ -8,15 +8,17 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >
-      I am a seasoned technology leader with over 15 years of experience
-      aligning advanced technologies like Artificial Intelligence with business
-      objectives to deliver customer-centric solutions globally. I’ve led
-      cross-functional teams to drive product innovation, resulting in
-      significant revenue growth and improved customer experiences. Passionate
-      about fostering innovation, I can contribute to your company by leveraging
-      my strategic vision, technical expertise, and leadership abilities to
-      develop cutting-edge AI solutions that drive substantial growth.
+    text: >+
+      <div style="text-align: left">I am a seasoned technology leader with over
+      12 years of experience aligning advanced technologies like Artificial
+      Intelligence with business objectives to deliver customer-centric
+      solutions globally. I’ve led cross-functional teams to drive product
+      innovation, resulting in significant revenue growth and improved customer
+      experiences. Passionate about fostering innovation, I can contribute to
+      your company by leveraging my strategic vision, technical expertise, and
+      leadership abilities to develop cutting-edge AI solutions that drive
+      substantial growth.</div>
+
     actions:
       - label: Get started
         altText: ''

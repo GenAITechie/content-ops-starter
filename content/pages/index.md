@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >+
-      <div style="text-align: left">I am a seasoned technology leader with over
+      <div style="text-align: left">*I am a seasoned technology leader with over
       12 years of experience aligning advanced technologies like Artificial
       Intelligence with business objectives to deliver customer-centric
       solutions globally. I’ve led cross-functional teams to drive product
@@ -17,7 +17,7 @@ sections:
       experiences. Passionate about fostering innovation, I can contribute to
       your company by leveraging my strategic vision, technical expertise, and
       leadership abilities to develop cutting-edge AI solutions that drive
-      substantial growth.</div>
+      substantial growth.*</div>
 
     actions:
       - label: Get started
@@ -252,7 +252,7 @@ sections:
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     media:
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: 'https://youtu.be/CXnUX2EkicE'
       controls: false
       aspectRatio: '16:9'
       styles:

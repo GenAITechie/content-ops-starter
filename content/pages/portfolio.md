@@ -72,8 +72,10 @@ sections:
       color: text-dark
     subtitle: Be in good company
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      I align advanced AI technologies with business objectives to drive
+      innovation and measurable results. By integrating AI initiatives with
+      strategic goals, I deliver solutions that enhance customer experiences and
+      contribute to significant revenue growth.
     actions:
       - type: Button
         label: Get started

@@ -8,10 +8,36 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      I am a seasoned technology leader with over 15 years of experience in
+      driving product innovation and leading cross-functional teams. My
+      expertise lies in aligning advanced technologies like Artificial
+      Intelligence with business objectives to deliver customer-centric
+      solutions on a global scale.
+
+
+      Throughout my career, I have spearheaded the development of innovative
+      platforms and led large teams to enhance product offerings, resulting in
+      significant revenue growth and improved customer experiences. My
+      background includes creating predictive models, implementing AI-driven
+      solutions, and leading cloud-native developments that have saved costs and
+      secured substantial investments.
+
+
+      I am passionate about fostering innovation and leveraging technology to
+      drive growth. I can contribute to your company by fostering innovation and
+      leveraging advanced technology to drive substantial growth. My strategic
+      vision, technical expertise, and leadership abilities enable me to lead
+      teams in developing cutting-edge AI solutions that align with your
+      business objectives.
+
+
+      For more details on my professional experience and achievements, please
+      feel free to connect with me on [LinkedIn](#).
+
+
+
+
     actions:
       - label: Get started
         altText: ''

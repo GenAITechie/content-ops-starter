@@ -26,6 +26,49 @@ styles:
   self:
     flexDirection: col
 isFeatured: false
+bottomSections:
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Generic section with a video
+      color: text-dark
+      styles:
+        self:
+          textAlign: left
+    subtitle: Section with a video subtitle
+    text: |-
+      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
+      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
+      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
+      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    actions: []
+    media:
+      type: VideoBlock
+      title: Title of the video
+      url: /images/placeholder-video.mp4
+      autoplay: true
+      loop: true
+      muted: true
+      controls: false
+      aspectRatio: '16:9'
+      styles:
+        self:
+          padding:
+            - pt-2
+            - pb-2
+            - pl-2
+            - pr-2
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: row
+        justifyContent: center
+      subtitle:
+        textAlign: left
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Laoreet sit amet cursus sit amet dictum sit. Duis ut diam quam nulla porttitor massa id neque. Ut tortor pretium viverra suspendisse potenti nullam. Auctor elit sed vulputate mi sit amet mauris commodo. Dui ut ornare lectus sit amet est placerat. Et malesuada fames ac turpis. Nunc vel risus commodo viverra maecenas accumsan lacus vel. Varius morbi enim nunc faucibus a pellentesque. Erat imperdiet sed euismod nisi porta. Viverra maecenas accumsan lacus vel facilisis volutpat est velit egestas. Dui ut ornare lectus sit amet est placerat in. Vitae sapien pellentesque habitant morbi tristique senectus et netus et. Nullam vehicula ipsum a arcu cursus vitae congue mauris.

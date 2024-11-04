@@ -23,7 +23,15 @@ sections:
       pioneering research and delivering impactful proofs of concept. By
       effectively applying advanced AI models, I solved complex challenges and
       drove innovation, propelling organizational success.
-    actions: []
+    actions:
+      - type: Link
+        altText: YouTube
+        url: 'https://youtu.be/pTk3JWDzq3U'
+        showIcon: true
+        icon: youtube
+        iconPosition: left
+        style: secondary
+        elementId: ''
     colors: bg-neutral-fg-dark
     styles:
       self:

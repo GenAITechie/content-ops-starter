@@ -33,7 +33,8 @@ sections:
         label: Gen AI Text Summarizer in Action
       - type: Link
         altText: GitHub
-        url: SecureSynth - Synthetic Data Generation Proj Proposal -v2.pdf
+        url: >-
+          https://github.com/GenAITechie/Synthetic-data-generation-using-GAN/blob/33fb8e6e44676ac72150598547154e755cb8bd52/SecureSynth%20-%20Synthetic%20Data%20Generation%20Proj%20Proposal%20-v2.pdf
         showIcon: true
         icon: github
         iconPosition: left

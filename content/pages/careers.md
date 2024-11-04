@@ -3,7 +3,7 @@ title: Portfolio
 slug: careers
 sections:
   - title:
-      text: A team that works closely together
+      text: Deep Expertise in Generative AI and Machine Learning
       color: text-dark
       styles:
         self:

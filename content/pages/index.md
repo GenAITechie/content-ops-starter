@@ -87,7 +87,7 @@ sections:
         textAlign: center
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Featured Projects
       color: text-dark
       styles:
         self:

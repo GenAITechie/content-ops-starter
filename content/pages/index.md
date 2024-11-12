@@ -96,8 +96,8 @@ sections:
           - pr-7
     type: DividerSection
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
+  metaTitle: Home - Gen AI Profile
+  metaDescription: This site is created to showcase a Gen AI leader
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout

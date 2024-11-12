@@ -23,11 +23,7 @@ sections:
       that align with business goals while ensuring responsible AI practices in
       highly regulated environments. I am dedicated to leveraging data-driven
       insights and ethical AI frameworks to create transformative products that
-      not only optimize operations but also elevate customer satisfaction.
-
-
-
-      </div>
+      not only optimize operations but also elevate customer satisfaction.</div>
 
     actions:
       - label: Get started

@@ -124,35 +124,6 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: Predictive Modeling for Supply Chain Optimization at Deloitte
-        text: >
-          As a Senior Manager of Applied AI at Deloitte, I directed a
-          cross-functional team of 18 professionals to develop predictive models
-          that improved inventory and supply chain management for 6,000 items
-          across 2,200 stores. By leveraging advanced AI and machine learning
-          techniques, we enhanced revenue growth, reduced costs, and improved
-          customer satisfaction. This project resulted in over $3 million in
-          annual savings for our clients.
-        image:
-          url: /images/icon2.svg
-          altText: Featured icon two
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            textAlign: left
-            justifyContent: center
-        type: FeaturedItem
       - title: 200%
         subtitle: Faster
         text: >-

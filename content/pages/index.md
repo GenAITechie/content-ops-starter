@@ -16,16 +16,7 @@ sections:
       responsible AI practices to enhance customer experiences and drive
       business growth.**</div>
 
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
+    actions: []
     media:
       url: /images/Logo.png
       altText: Unblock your team boost your time to production preview

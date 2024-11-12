@@ -65,7 +65,7 @@ sections:
           “A designer knows he has achieved perfection not when there is nothing
           left to add, but when there is nothing left to take away.”
         tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
+        subtitle: ''
         text: >
           I specialize in driving innovative, AI-powered customer-facing
           solutions for top tech companies. My passion lies in integrating

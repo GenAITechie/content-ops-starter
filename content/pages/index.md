@@ -66,10 +66,18 @@ sections:
           left to add, but when there is nothing left to take away.”
         tagline: Testimonial 1
         subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          I specialize in driving innovative, AI-powered customer-facing
+          solutions for top tech companies. My passion lies in integrating
+          advanced Large Language Models into enterprise applications to enhance
+          customer experiences and drive business growth. What sets me apart is
+          my ability to lead global, cross-functional teams—over 300
+          professionals across 17 countries—to deliver large-scale AI
+          initiatives that align with business goals while ensuring responsible
+          AI practices in highly regulated environments. I am dedicated to
+          leveraging data-driven insights and ethical AI frameworks to create
+          transformative products that not only optimize operations but also
+          elevate customer satisfaction.
         image:
           type: ImageBlock
           url: /images/person-placeholder-light.png

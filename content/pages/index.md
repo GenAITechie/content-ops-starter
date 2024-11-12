@@ -93,7 +93,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: My most significant technology projects
     items:
       - type: FeaturedItem
         title: 500k

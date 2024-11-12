@@ -124,7 +124,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: ''
+      - title: Predictive Modeling
         subtitle: Faster
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem

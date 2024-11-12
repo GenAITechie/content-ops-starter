@@ -125,7 +125,7 @@ sections:
             self:
               borderRadius: x-large
       - title: 20x
-        subtitle: The Job Stuff
+        subtitle: Predictive Modeling for Supply Chain Optimization at Deloitte
         text: >
           As a Senior Manager of Applied AI at Deloitte, I directed a
           cross-functional team of 18 professionals to develop predictive models

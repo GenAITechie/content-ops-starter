@@ -80,7 +80,7 @@ sections:
           elevate customer satisfaction.
         image:
           type: ImageBlock
-          url: /images/person-placeholder-light.png
+          url: /images/Synthetic.jpg
           altText: Maria Walters
           styles:
             self:

@@ -62,7 +62,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Brief Introduction
-        tagline: Testimonial 1
+        tagline: ''
         subtitle: ''
         text: >
           I specialize in driving innovative, AI-powered customer-facing

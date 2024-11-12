@@ -126,10 +126,14 @@ sections:
               borderRadius: x-large
       - title: 20x
         subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          As a Senior Manager of Applied AI at Deloitte, I directed a
+          cross-functional team of 18 professionals to develop predictive models
+          that improved inventory and supply chain management for 6,000 items
+          across 2,200 stores. By leveraging advanced AI and machine learning
+          techniques, we enhanced revenue growth, reduced costs, and improved
+          customer satisfaction. This project resulted in over $3 million in
+          annual savings for our clients.
         image:
           url: /images/icon2.svg
           altText: Featured icon two

@@ -108,9 +108,6 @@ sections:
           creating intelligent systems that interact naturally with users, I
           have developed a series of AI agents that demonstrate advanced
           technical skills and a deep understanding of AI technologies.
-
-
-          <https://github.com/GenAITechie/Gen-AI-Projects/README.md>
         image:
           type: ImageBlock
           url: /images/Gen AI Agents.jpeg

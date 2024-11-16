@@ -98,6 +98,30 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
+        title: sampl
+        tagline: This is the tagline
+        subtitle: This is the item subtitle
+        text: |
+          Follow the tutorial to build your first Netlify Create site.
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature1.svg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+      - type: FeaturedItem
         title: AI Agents Portfolio
         tagline: ''
         subtitle: ''

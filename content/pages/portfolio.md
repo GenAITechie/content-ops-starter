@@ -118,7 +118,16 @@ sections:
           styles:
             self:
               borderRadius: full
-        actions: []
+        actions:
+          - type: Button
+            label: Get started
+            altText: ''
+            url: 'https://github.com/GenAITechie/Gen-AI-Projects/README.md'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
           self:

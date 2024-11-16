@@ -109,6 +109,8 @@ sections:
           have developed a series of AI agents that demonstrate advanced
           technical skills and a deep understanding of AI technologies.
 
+
+
         image:
           type: ImageBlock
           url: /images/Gen AI Agents.jpeg

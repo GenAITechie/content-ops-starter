@@ -100,7 +100,7 @@ sections:
       - type: FeaturedItem
         title: AI Agents Portfolio
         tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
+        subtitle: ''
         text: >
           Welcome to my AI Agents Portfolio, a curated collection of innovative
           projects that highlight my expertise in artificial intelligence,

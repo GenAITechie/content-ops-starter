@@ -111,7 +111,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/Gen AI Agents.jpeg
-          altText: Maria Walters
+          altText: AI Agents
           styles:
             self:
               borderRadius: full

@@ -95,7 +95,7 @@ sections:
         alignItems: center
         flexDirection: row-reverse
   - type: CarouselSection
-    subtitle: This is a subtitle
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: AI Agents Portfolio

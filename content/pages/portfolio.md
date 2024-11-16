@@ -103,10 +103,13 @@ sections:
           left to add, but when there is nothing left to take away.”
         tagline: Testimonial 1
         subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Welcome to my AI Agents Portfolio, a curated collection of innovative
+          projects that highlight my expertise in artificial intelligence,
+          machine learning, and software development. With a passion for
+          creating intelligent systems that interact naturally with users, I
+          have developed a series of AI agents that demonstrate advanced
+          technical skills and a deep understanding of AI technologies.
         image:
           type: ImageBlock
           url: /images/person-placeholder-light.png

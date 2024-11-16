@@ -101,13 +101,14 @@ sections:
         title: AI Agents Portfolio
         tagline: ''
         subtitle: ''
-        text: >
+        text: >+
           Welcome to my AI Agents Portfolio, a curated collection of innovative
           projects that highlight my expertise in artificial intelligence,
           machine learning, and software development. With a passion for
           creating intelligent systems that interact naturally with users, I
           have developed a series of AI agents that demonstrate advanced
           technical skills and a deep understanding of AI technologies.
+
         image:
           type: ImageBlock
           url: /images/Gen AI Agents.jpeg
@@ -128,6 +129,30 @@ sections:
             borderRadius: large
             flexDirection: row
             justifyContent: center
+      - type: FeaturedItem
+        title: Feature Item One
+        tagline: This is the tagline
+        subtitle: This is the item subtitle
+        text: |
+          Follow the tutorial to build your first Netlify Create site.
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature1.svg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
       - type: FeaturedItem
         title: >-
           “Quote from some important person goes right here. I love using

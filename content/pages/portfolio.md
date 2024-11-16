@@ -126,7 +126,7 @@ sections:
             style: secondary
             elementId: ''
           - type: Button
-            label: Get started
+            label: Gen AI Tutor Demo
             altText: ''
             url: 'https://youtu.be/uqEGx173sYU'
             showIcon: false

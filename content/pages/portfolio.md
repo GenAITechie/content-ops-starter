@@ -117,7 +117,7 @@ sections:
               borderRadius: full
         actions:
           - type: Button
-            label: Get started
+            label: Gen AI Agents
             altText: ''
             url: 'https://github.com/GenAITechie/Gen-AI-Projects/README.md'
             showIcon: false

@@ -110,7 +110,7 @@ sections:
           technical skills and a deep understanding of AI technologies.
         image:
           type: ImageBlock
-          url: /images/person-placeholder-light.png
+          url: /images/Gen AI Agents.jpeg
           altText: Maria Walters
           styles:
             self:

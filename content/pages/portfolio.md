@@ -119,7 +119,7 @@ sections:
           - type: Button
             label: Gen AI Agents
             altText: ''
-            url: 'https://github.com/GenAITechie/Gen-AI-Projects/README.md'
+            url: 'https://github.com/GenAITechie/Gen-AI-Projects/blob/main/README.md'
             showIcon: false
             icon: arrowRight
             iconPosition: right

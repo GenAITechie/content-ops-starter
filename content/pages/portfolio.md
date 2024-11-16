@@ -110,7 +110,7 @@ sections:
           technical skills and a deep understanding of AI technologies.
 
 
-          ![](/images/avatar1.svg)<https://github.com/GenAITechie/Gen-AI-Projects/README.md>
+          <https://github.com/GenAITechie/Gen-AI-Projects/README.md>
         image:
           type: ImageBlock
           url: /images/Gen AI Agents.jpeg

@@ -98,9 +98,7 @@ sections:
     subtitle: This is a subtitle
     items:
       - type: FeaturedItem
-        title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+        title: AI Agents Portfolio
         tagline: Testimonial 1
         subtitle: 'Maria Walters, Company'
         text: >

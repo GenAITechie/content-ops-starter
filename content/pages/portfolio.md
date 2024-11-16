@@ -125,6 +125,15 @@ sections:
             iconPosition: right
             style: secondary
             elementId: ''
+          - type: Button
+            label: Get started
+            altText: ''
+            url: 'https://youtu.be/uqEGx173sYU'
+            showIcon: false
+            icon: arrowRight
+            iconPosition: right
+            style: primary
+            elementId: ''
         colors: bg-neutralAlt-fg-dark
         styles:
           self:

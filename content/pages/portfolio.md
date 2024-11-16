@@ -101,7 +101,7 @@ sections:
         title: AI Agents Portfolio
         tagline: ''
         subtitle: ''
-        text: >+
+        text: >
           Welcome to my AI Agents Portfolio, a curated collection of innovative
           projects that highlight my expertise in artificial intelligence,
           machine learning, and software development. With a passion for
@@ -109,6 +109,8 @@ sections:
           have developed a series of AI agents that demonstrate advanced
           technical skills and a deep understanding of AI technologies.
 
+
+          <https://github.com/GenAITechie/Gen-AI-Projects/README.md>
         image:
           type: ImageBlock
           url: /images/Gen AI Agents.jpeg

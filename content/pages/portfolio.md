@@ -99,7 +99,7 @@ sections:
     items:
       - type: FeaturedItem
         title: AI Agents Portfolio
-        tagline: Testimonial 1
+        tagline: ''
         subtitle: ''
         text: >
           Welcome to my AI Agents Portfolio, a curated collection of innovative

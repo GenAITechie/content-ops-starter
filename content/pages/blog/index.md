@@ -5,7 +5,7 @@ numOfPostsPerPage: 12
 enableSearch: true
 topSections:
   - title:
-      text: Featured Pos
+      text: ''
       color: text-dark
       type: TitleBlock
     subtitle: This is the subtitle
